@@ -181,7 +181,6 @@ function App() {
               </form>
             </>
           )}
-          {/* heading */}
         </div>
       </div>
     </>
